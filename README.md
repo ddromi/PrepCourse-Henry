@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del PrepCourse Henry
+Prueba de como clonar un repositorio con bash y modificarlo con el editor de texto vsc
